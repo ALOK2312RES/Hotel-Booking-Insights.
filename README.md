@@ -1,6 +1,6 @@
 # Hotel-Booking-Insights.
- Power BI Interactivedashboard visualizing hotel booking behavior, occupancy trends, room type popularity, and cancellation rates with dynamic filters for country and customer type.
-Power BI Interactivedashboard visualizing hotel booking behavior, occupancy trends, room type popularity, and cancellation rates with dynamic filters for country and customer type.
+ Power BI Interactive dashboard visualizing hotel booking behavior, occupancy trends, room type popularity, and cancellation rates with dynamic filters for country and customer type.
+Power BI Interactive dashboard visualizing hotel booking behavior, occupancy trends, room type popularity, and cancellation rates with dynamic filters for country and customer type.
 🏨 Hotel Booking Insights – Power BI Dashboard
 This project visualizes hotel booking data using Power BI to reveal trends, patterns, and insights that help stakeholders make informed decisions.
 
