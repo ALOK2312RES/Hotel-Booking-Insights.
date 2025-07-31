@@ -51,5 +51,8 @@ working demo-
 
 (https://app.powerbi.com/groups/me/reports/d8a2a6a4-2025-4a99-95a6-4381d220698b/a2d25f96ab910982a59b?experience=power-bi)
 
+presentatiom-
+( https://github.com/ALOK2312RES/Hotel-Booking-Insights./blob/main/Hotel_Booking_Insights_Presentation.pptx_20250731_151717_0000.pdf)
+
 screenshot-
-( https://github.com/ALOK2312RES/-Hotel-Booking-Insights-dashboard./blob/main/hotel%20booking%20dashboard%20(alok).png)
+()
