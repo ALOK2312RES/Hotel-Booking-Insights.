@@ -55,4 +55,4 @@ presentatiom-
 ( https://github.com/ALOK2312RES/Hotel-Booking-Insights./blob/main/Hotel_Booking_Insights_Presentation.pptx_20250731_151717_0000.pdf)
 
 screenshot-
-()
+(https://github.com/ALOK2312RES/Hotel-Booking-Insights./blob/main/hotel%20booking%20dashboard%20(alok).png)
